@@ -30,6 +30,8 @@
 - [X] App spec: user stories, screens & navigation flows
 - [X] Wireframe images 
 - [X] Updated group info in the Course Portal: Group Name + App Description. 
+
+
 **Optional Nice-to-have Stories**
 
 - [ ] Digital Wireframe/Mockup Images 
