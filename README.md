@@ -25,10 +25,10 @@
 
 **Required Must-have Stories**
 
-* [Creation of GitHub Organization and Group Project Repo (1pt)]
-* [App Overview: Description and evaluation (Mobile, Story, Market, Habit & Scope)]
+* [X]Creation of GitHub Organization and Group Project Repo (1pt)
+* [X]App Overview: Description and evaluation (Mobile, Story, Market, Habit & Scope)
+* [X]App spec: user stories, screens & navigation flows
 * 
-
 **Optional Nice-to-have Stories**
 
 * [fill in your required user stories here]
