@@ -13,10 +13,10 @@
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category: Productivity**
-- **Mobile: Android **
-- **Story: Tired of paying too much? Wanted a better rental car but couldn't afford it? View all of your options easily here! **
+- **Mobile: Android**
+- **Story: Tired of paying too much? Wanted a better rental car but couldn't afford it? View all of your options easily here!**
 - **Market: Renters trying to be efficient and save money.**
-- **Habit: Users can save deals to compare and get notified before the prices rise. **
+- **Habit: Users can save deals to compare and get notified before the prices rise.**
 - **Scope: Users will soon be able to book hotels/flights with great deals in accordance with their transportation.**
 
 ## Product Spec
@@ -29,10 +29,11 @@
 - [X] App Overview: Description and evaluation (Mobile, Story, Market, Habit & Scope)
 - [X] App spec: user stories, screens & navigation flows
 - [X] Wireframe images 
+- [X] Updated group info in the Course Portal: Group Name + App Description. 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+- [ ] Digital Wireframe/Mockup Images 
+- [ ] Interactive Prototype gif
 
 ### 2. Screen Archetypes
 
@@ -47,9 +48,9 @@
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Reservations
+* Search
 
 **Flow Navigation** (Screen to Screen)
 
