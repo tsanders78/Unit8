@@ -8,10 +8,10 @@
 
 ## Overview
 ### Description
-[drivePro will allow users to compare prices from various rental car enterprises and choose the best option.]
+drivePro will allow users to compare prices from various rental car enterprises and choose the best option.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category: Productivity**
 - **Mobile: Android**
 - **Story: Tired of paying too much? Wanted a better rental car but couldn't afford it? View all of your options easily here!**
